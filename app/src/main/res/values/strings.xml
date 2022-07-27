@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiScreen_TTT</string>
+    <string name="app_heading">Tic-Tac-Toe</string>
+    <string name="grid_name">grid</string>
+    <string name="p1">Player1 Name</string>
+    <string name="p2">Player2 name</string>
+</resources>
